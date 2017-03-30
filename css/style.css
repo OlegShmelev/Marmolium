@@ -66,8 +66,7 @@ body {
     background-color: rgba(255, 255, 255, 0.56);
     margin-top: 11px;
     margin-bottom: 6px;
-    margin-left: 150px;
-    border: 1px solid #999999;
+    border: 10px solid #999999;
     border-bottom: 0;
     border-top: 0;
     font-family: 'Lora', serif;
@@ -124,8 +123,8 @@ ul{
 }
 /* внешний вид меню слева*/
 .side {
-    width: 100 px;
-    margin: 20px;
+    width:  px;
+    margin: px;
     float:left;
 }
 .menu a{
@@ -156,7 +155,7 @@ ul{
 /* всплывающее меню*/
 .menu__list{
     position: relative;
-    width: 140%;
+    width: 110%;
 
 }
 .menu__drop{
@@ -176,7 +175,7 @@ ul{
 
 .menu__list::after{
     content: " ";
-    position: absolute;
+    position: absolute ;
     border: 5px solid;
     border-color:transparent transparent transparent #eee;
     top: 1em;
