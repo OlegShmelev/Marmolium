@@ -155,7 +155,7 @@ ul{
 /* всплывающее меню*/
 .menu__list{
     position: relative;
-    width: 110%;
+    width: 120%;
 
 }
 .menu__drop{
